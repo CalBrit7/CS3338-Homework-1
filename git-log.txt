@@ -1,0 +1,94 @@
+commit 02ed8fe2db08f32e1816b4631cfdf46828887c3b
+Merge: d9aba6b 1705e25
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Mon Sep 14 02:25:50 2026 -0700
+
+    Merge pull request #2 from CalBrit7/feature-about-me
+    
+    Adding team about me info to index.html
+
+commit 1705e2574ae503b0946a91f3d20e2b453e09c5c2
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Mon Sep 14 02:20:10 2026 -0700
+
+    Adding team about me info to index.html
+    
+    Updating index.html with groupmates feature-about-me info.
+
+commit d9aba6b1c2eebd75efffedb8ea154c5381427cef
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Sat Sep 12 20:57:56 2026 -0700
+
+    Update index.html
+    
+    Added missing style part
+
+commit 843df2af10efb8391505d9c03213715187768829
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Sat Sep 12 20:32:08 2026 -0700
+
+    Update index.html
+
+commit acdd69cbc3a46713e0662dc43337ded84e46af32
+Merge: f37cdce f5f7821
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Fri Sep 11 12:45:58 2026 -0700
+
+    Merge pull request #1 from CalBrit7/feature-about-me
+    
+    Feature about me
+    merging after resolving conflict
+
+commit f5f78216854b300aa42091c0fff344cc962a666b
+Merge: 0489e28 f37cdce
+Author: CalBrit7 <168679078+CalBrit7@users.noreply.github.com>
+Date:   Fri Sep 11 12:44:30 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 0489e282edf6801b48830a5c9e2e4a936966f916
+Author: CalBrit7 <birazoq@calstatela.edu>
+Date:   Fri Sep 11 11:49:11 2026 -0700
+
+    Update index.html
+    
+    filled in information about me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
